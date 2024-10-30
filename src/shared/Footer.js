@@ -23,7 +23,7 @@ export default function Footer() {
       <ul className="footer-icons list-unstyled d-flex">
         <li>
           <a
-            href="https://x.com/Moss_Adams?t=czKbwG04gv8EkoATVI6w1w&s=09"
+            href="https://x.com"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -41,7 +41,7 @@ export default function Footer() {
         </li>
         <li>
           <a
-            href="https://youtube.com/@mossadamsllp?si=jQwVnPhmSwMLH199"
+            href="https://youtube.com"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -50,7 +50,7 @@ export default function Footer() {
         </li>
         <li>
           <a
-            href="https://www.linkedin.com/company/moss-adams-llp/"
+            href="https://www.linkedin.com"
             target="_blank"
             rel="noopener noreferrer"
           >
