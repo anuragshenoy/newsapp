@@ -1,0 +1,37 @@
+.footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  border-top: 1px solid #000;
+  background-color: #000;
+  padding: 1rem 2rem; 
+}
+
+.footer-logo {
+  display: flex;
+  align-items: center;
+  color: #fff;
+  font-weight: 600;
+  font-size: 2rem;
+}
+
+.footer-text {
+  color: #fff;
+}
+
+.footer-icons {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+}
+
+.footer-icons li {
+  margin: 0 0.5rem;
+}
+
+.footer-icons a {
+  color: #fff;
+  font-size: 1.5rem;
+  text-decoration: none;
+}

@@ -1,0 +1,114 @@
+.news-item .news-card {
+  width: 20rem;
+  height: 30rem;
+  position: relative;
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);
+  margin: 1rem auto;
+}
+
+.news-item .news-card:hover {
+  transform: translateY(-5px) scale(1.02);
+  box-shadow: 0px 8px 16px rgba(0, 0, 0, 0.2);
+}
+
+.news-item .card-header {
+  display: flex;
+  justify-content: space-between; /* Space out the items */
+  align-items: center; /* Vertically center items */
+  position: absolute;
+  top: 10px; /* Position from the top */
+  left: 10px; /* Position from the left */
+  right: 10px; /* Position from the right */
+  z-index: 2; /* Ensure it is above other elements */
+}
+
+.news-item .source-badge {
+  padding: 0.5em 0.75em;
+  font-size: 0.9em;
+  margin-left: auto; /* Push to the right */
+}
+
+.news-item .favorite-badge {
+  background: transparent; /* Default background */
+  border-radius: 50%;
+  padding: 5px;
+  box-shadow: none;
+  cursor: pointer;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+  transition: background-color 0.3s ease; /* Smooth transition for background change */
+}
+
+.news-item .favorite-badge.favorited {
+  background: rgba(255, 215, 0, 0.3); /* Light gold background when favorited */
+ 
+}
+
+.news-item .favorite-badge .MuiSvgIcon-root {
+  font-size: 1.5rem;
+  color: white; /* Default icon color */
+  background-color: black;
+  border-radius: 35%;
+}
+
+.news-item .favorite-badge.favorited .MuiSvgIcon-root {
+ /* color: gold; */
+  background-color: gold;
+}
+
+.news-item .shareIcon{
+  background-color: black;
+  color: white;
+  border-radius: 35%;
+  font-size: 0.7rem;
+}
+
+
+.news-item .card-body {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  background: rgba(255, 255, 255, 0.9);
+  padding: 15px;
+  border-top: 1px solid rgba(0, 0, 0, 0.1);
+  height: 50%; /* Adjusted height */
+  box-sizing: border-box;
+}
+
+.news-item .card-title {
+  font-weight: bold;
+  font-size: 1.25rem;
+  margin-bottom: 0.5rem;
+}
+
+.news-item .card-text {
+  font-size: 0.9rem;
+  color: #555;
+  margin-bottom: 1rem;
+}
+
+.news-item .card-img-top {
+  width: 100%;
+  height: 225px;
+  background-size: cover;
+}
+
+.btn-animated {
+  text-transform: none!important;
+  background-color: white !important;
+  color: black!important;
+  border: 2px solid black!important;
+  transition: background-color 0.4s ease, color 0.4s ease!important;
+  margin-top: auto; /* Ensures the button is pushed to the bottom */
+}
+
+.btn-animated:hover {
+  background-color: black!important;
+  color: white!important;
+}

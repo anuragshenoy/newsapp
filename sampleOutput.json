@@ -1,0 +1,110 @@
+{
+    "status": "ok",
+    "totalResults": 8,
+    "articles": [
+        {
+            "source": {
+                "id": "news-com-au",
+                "name": "News.com.au"
+            },
+            "author": null,
+            "title": "Where it all went wrong for Channing Tatum",
+            "description": "There was a time, back when moviegoing first started to emerge from the pre-vaccine year of the pandemic, that Channing Tatum seemed to be emerging as one of our last true movie stars.",
+            "url": "https://www.news.com.au/entertainment/movies/where-did-it-all-go-wrong-for-channing-tatum/news-story/055154d4c8f4e56f1e5da9d1234b8c82",
+            "urlToImage": "https://content.api.news/v3/images/bin/afb0d8ded66a4b938ad4b73bd038f7ed",
+            "publishedAt": "2024-08-24T22:45:00Z",
+            "content": "There was a time, back when moviegoing first started to emerge from the pre-vaccine year of the pandemic, that Channing Tatum seemed to be emerging as one of our last true movie stars. \r\nAfter a seri… [+5002 chars]"
+        },
+        {
+            "source": {
+                "id": "entertainment-weekly",
+                "name": "Entertainment Weekly"
+            },
+            "author": "https://www.facebook.com/entertainmentweekly",
+            "title": "Historic 'A League of Their Own' baseball park destroyed in fire",
+            "description": "California's Jay Littleton Ball Park, which was used in the movies 'A League of Their Own' and 'Eight Men Out,' was destroyed in a fire: 'It's a terrible loss for our community.'",
+            "url": "https://ew.com/a-league-of-their-own-baseball-park-destroyed-in-fire-8700988",
+            "urlToImage": "https://ew.com/thmb/tHJR_Km8eJN_d-MhN2FPKfpy9u8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/leagu_stl_14_h-2000-a001c6a2cbbf42358f96a67f9f121342.jpg",
+            "publishedAt": "2024-08-24T21:07:12.1478454Z",
+            "content": "There's no crying in baseball but tears were likely shed after a historic ballpark went up in flames this week.\r\nThe Jay Littleton Ball Park in Ontario, Calif. which served as a filming location for … [+3192 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn-es",
+                "name": "CNN Spanish"
+            },
+            "author": "Ángela Reyes Haczek",
+            "title": "Trayectoria de la tormenta tropical Hone: dónde está y hacia dónde se dirige",
+            "description": "La tormenta tropical Hone se encuentra a unos 465 kilómetros al este-sureste de Hilo, y a 805 kilómetros de Honolulu, Hawai, y se está moviendo hacia el oeste, según un reporte de las 08:00 a.m. hora de Miami de éste sábado del Centro de Huracanes del Pacífic…",
+            "url": "https://cnnespanol.cnn.com/2024/08/23/trayectoria-tormenta-tropical-hone-orix/",
+            "urlToImage": "https://cnnespanol.cnn.com/wp-content/uploads/2024/08/tormenta-tropical-hone.png",
+            "publishedAt": "2024-08-24T13:32:50Z",
+            "content": "¿Cuál es la diferencia entre ciclón tropical, tormenta tropical y huracán? 6:35\r\n(CNN Español)-- La tormenta tropical Hone se encuentra a unos 465 kilómetros al este-sureste de Hilo, y a 805 kilómetr… [+1555 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Matt Patches",
+            "title": "Robert Downey Jr. is Iron Man again—for Disney’s big Avengers land rides",
+            "description": "He’s Doctor Doom in Marvel movies, but for Marvel’s Avengers Campus, RDJ is back as Tony Stark for Stark Flight Lab and Avengers: Infinity Defense rides.",
+            "url": "https://www.polygon.com/24217880/robert-downey-jr-iron-man-avengers-campus-rides",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/PFEKiuJ8uASyOhkKMoh8p-LmRbs=/377x66:1311x555/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25567657/DLR_Avengers_Campus3_1536x666.jpg",
+            "publishedAt": "2024-08-11T12:18:45Z",
+            "content": "How much of the Marvel Cinematic Universe can one man own? Robert Downey Jr. is on a quest to find out. Despite Marvel casting the actor as Doctor Doom for the upcoming Avengers: Doomsday, Downey Jr.… [+2124 chars]"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Matt Patches",
+            "title": "Disney’s D23 Snow White trailer unveils Rachel Zegler’s updated princess",
+            "description": "Rachel Zegler stars alongside seven CG dwarfs in the race-changing reimagining of the 1937 movie from director Marc Webb. The movie releases next spring.",
+            "url": "https://www.polygon.com/24216163/snow-white-trailer-2025-disney-d23",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/NXS3PTuGmM8bFTu2JxqahfhfaKg=/174x0:2443x1188/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25566616/snowwhitedance.jpg",
+            "publishedAt": "2024-08-10T04:44:21Z",
+            "content": "Rachel Zegler stars alongside seven CG dwarfs"
+        },
+        {
+            "source": {
+                "id": "polygon",
+                "name": "Polygon"
+            },
+            "author": "Zosha Millman, Susana Polo, Petrana Radulovic, Matt Patches",
+            "title": "Disney’s D23 2024: All the big trailers and news in one place",
+            "description": "Marvel, Star Wars, Pixar, Disney Animation reveal their new movies, tv shows, trailers, and plans for the 2025 and beyond at the Disney version of Comic-Con.",
+            "url": "https://www.polygon.com/24217230/d23-news-trailers-disney-marvel-star-wars-2024",
+            "urlToImage": "https://cdn.vox-cdn.com/thumbor/gjRhYaBLPVsrbhRxccvgvne5tdQ=/0x24:1200x652/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/25566500/D23__The_Ultimate_Disney_Fan_Event_Key_Art.jpg",
+            "publishedAt": "2024-08-10T02:02:15Z",
+            "content": "Hot on the heels of SDCC 2024 comes Disneys giant fan convention, which intends to reveal just as much news about the future of Marvel, Star Wars, Pixar, Disney Animation, and the Disney Parks as a t… [+400 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "Collier Jennings",
+            "title": "Best Action Movies on Netflix Right Now (September 2022) - IGN",
+            "description": "These are the best action movies on Netflix right now -- blockbusters, fight films, animated adventures and shootouts galore.",
+            "url": "https://www.ign.com/articles/best-action-movies-on-netflix-right-now",
+            "urlToImage": "https://assets-prd.ignimgs.com/2022/07/28/rrr-1659047262112.jpg?width=1280",
+            "publishedAt": "2022-09-01T18:03:14Z",
+            "content": "There is nothing like a good action movie on Netflix. The perfectly choreographed fight scenes that let you feel every punch and kick on screen; the shootouts that see bullets and bodies hitting the … [+11394 chars]"
+        },
+        {
+            "source": {
+                "id": "techcrunch-cn",
+                "name": "TechCrunch (CN)"
+            },
+            "author": "Brian Heater",
+            "title": "盘点 2019 年消失的明星创业公司 | TechCrunch 中文版",
+            "description": "创业公司会因为各种原因而失败，但有一点不会改变：创业是极其困难的事。想要创办一家成功的公司，需要的不仅仅是热情，以及找到合适的人才（尽管很明显这两点很重要）。成功的创业者需要在许许多多细节上做到完美。\r\n\r\n粗略地回顾下今年的创业公司，可以发现并没有什么公司能带来像去年Theranos那样的轰动性故事。Theranos的故事被写成了畅销书，改编成了纪录片，相关电影也即将上映。不过某些公司，例如MoviePass，可能已经逐渐接近。\r\n\r\n通常来说，每看到一家Theranos，我们同时也会看到数十位辛勤创业者的故事…",
+            "url": "https://techcrunch.cn/2019/12/27/startups-lost-in-2019/",
+            "urlToImage": "https://files.techcrunch.cn/2019/12/gettyimages-829632570.jpg?w=1200",
+            "publishedAt": "2019-12-27T16:46:58Z",
+            "content": "Theranos Theranos MoviePass\r\n Theranos\r\n 2019 \r\nAnki2010 2019 \r\n1.82 \r\n2013 WWDC Overdrive iPhone \r\n3 Anki CozmoAnki 2018 Vector 2019 4 Anki 150 “”Cozmo \r\nChariot2014 2019 \r\n300 2017 \r\nChariot “” \r\n … [+1085 chars]"
+        }
+    ]
+}

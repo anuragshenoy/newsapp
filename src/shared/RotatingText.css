@@ -1,0 +1,12 @@
+.blinking-cursor {
+    font-weight: bold;
+    font-size: 1em;
+    color: #007bff; /* Same as text color or preferred cursor color */
+    animation: blink 0.7s step-end infinite;
+  }
+  
+  @keyframes blink {
+    from, to { opacity: 1; }
+    50% { opacity: 0; }
+  }
+  

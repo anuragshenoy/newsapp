@@ -1,0 +1,39 @@
+.paragraph-container {
+    max-width: 50%;
+    margin: 0 auto;
+    text-align: center; /* Optional: Center-align text within the container */
+    padding: 1rem; /* Optional: Add some padding for better appearance */
+  }
+  
+  .card-body {
+    display: flex;
+    flex-direction: column; /* Align items vertically */
+    align-items: center;    /* Center items horizontally */
+    text-align: center;     /* Center text inside */
+    padding: 0rem;          /* Add padding if needed */
+  border:none;
+  box-shadow: none;
+  }
+  
+  .paragraph-container {
+    max-width: 50%;        /* Adjust this as needed */
+    text-align: center;    /* Align text center or left */
+    margin: 20px 0;        /* Adjust margins if needed */
+  }
+  /* Add this to your styles.css */
+.card {
+  border: none; /* Remove border */
+  box-shadow: none; /* Remove shadow if any */
+}
+/* Ensure that parent container has no extra margin or padding */
+.carousel-container {
+  margin: 0;
+  padding: 0;
+  overflow: hidden; /* Ensure no overflow */
+}
+
+/* In case you have specific styles affecting your home page */
+.home-page {
+  margin: 0;
+  padding: 0;
+}
